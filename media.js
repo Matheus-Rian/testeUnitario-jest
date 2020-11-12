@@ -3,4 +3,4 @@ const media = (a, b) => {
 }
 console.log(media(2,2))
 
-module.exports = media
+module.exports = media 
